@@ -11,7 +11,7 @@ We present **Tex4D**, a zero-shot approach that integrates inherent 3D geometry 
 ![Overview](./assets/overview.png)
 
 - [ ] Technical Report
-- [ ] Release inferencecode
+- [ ] Release inference code
 - [ ] Release data preprocess code
 
 ## Installation
@@ -34,7 +34,7 @@ pip install --no-index --no-cache-dir pytorch3d -f https://dl.fbaipublicfiles.co
 
 ### 1. Preprocess
 
-Generate the conditioning data for video diffusion model for the provided mesh sequences.
+Generate the conditioning data for the video diffusion model based on the provided mesh sequences.
 
 ```bash
 python visualize.py --render --data_folder "anim/boo" --pose_dir "pose_3" --load_from_data
