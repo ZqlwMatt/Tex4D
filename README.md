@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://arxiv.org/abs/2408.06828">Tex4D: Zero-shot 4D Scene Texturing
+<h1 align="center"><a href="https://tex4d.github.io/">Tex4D: Zero-shot 4D Scene Texturing
 with Video Diffusion Models
 </a></h2>
 
@@ -48,7 +48,11 @@ python run.py --config data/boo/config.yaml
 
 ## Sample results
 
+For more see our [project webpage](https://tex4d.github.io).
+
 https://github.com/user-attachments/assets/1ec1cc6e-34b5-4cb6-a175-1894bf69360f
+
+https://github.com/user-attachments/assets/3b80a0ed-b201-469d-8cc8-137e82abefa2
 
 https://github.com/user-attachments/assets/e4ca6c1b-3a3b-4da1-9bb8-9c217d48e100
 
