@@ -59,7 +59,12 @@ https://github.com/user-attachments/assets/e4ca6c1b-3a3b-4da1-9bb8-9c217d48e100
 ## Citation
 
 ```bibtex
-
+@article{bao2024tex4d,
+    title={Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models}, 
+    author={Jingzhi Bao and Xueting Li and Ming-Hsuan Yang},
+    journal={arXiv preprint arxiv:2410.10821},
+    year={2024}
+}
 ```
 
 
