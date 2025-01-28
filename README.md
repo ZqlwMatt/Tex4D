@@ -6,6 +6,12 @@ with Video Diffusion Models
 [![arXiv](https://img.shields.io/badge/arXiv-2410.10821-b31b1b.svg)](https://arxiv.org/abs/2410.10821) 
 [![License](https://img.shields.io/badge/License-Apache--2.0-929292)](https://www.apache.org/licenses/LICENSE-2.0) 
 
+
+
+https://github.com/user-attachments/assets/b78a9b5a-4512-4517-8114-078353ff9ca3
+
+
+
 We present **Tex4D**, a zero-shot approach that integrates inherent 3D geometry knowledge from mesh sequences with the expressiveness of video diffusion models to produce multi-view and temporally consistent 4D textures. Given an untextured mesh sequence and a text prompt as inputs, our method generates multi-view, temporally consistent 4D textures.
 
 ![Overview](./assets/overview.png)
